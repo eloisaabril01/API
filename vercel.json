@@ -1,0 +1,8 @@
+{
+  "rewrites": [
+    {
+      "source": "/input",
+      "destination": "/api/index.py"
+    }
+  ]
+}
